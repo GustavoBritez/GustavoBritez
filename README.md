@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **C**
 
 - 👨‍💻 All of my projects are available at [https://github.com/GustavoBritez?tab=repositories](https://github.com/GustavoBritez?tab=repositories)
+  
+- Pueden encontrar ejecitacion resuelta en mi repositorio
 
 - 📫 How to reach me **DanielGus@outlook.es**
 
