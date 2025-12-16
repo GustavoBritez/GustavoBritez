@@ -17,7 +17,7 @@
 <h3 align="left"> Mis redes sociales:</h3>
 <p align="left">
 <a href="https://instagram.com/codigo_mecha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codigo_mecha" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/codigo mecha](https://www.youtube.com/@Codigo_Mecha)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codigo mecha" height="30" width="40" /></a>
+<a href="[[https://www.youtube.com/@Codigo_Mecha](https://www.youtube.com/@Codigo_Mecha)](https://www.youtube.com/@Codigo_Mecha)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="codigo mecha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left"> Conosco estas tencnologias:</h3>
