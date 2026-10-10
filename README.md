@@ -2,9 +2,6 @@
 <h1 align="center"> Bienvenido a mi mundo </h1>
 <h3 align="center"> Estudiante de Ingenieria en Sitemas UAI </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gustavobritez&label=Profile%20views&color=0e75b6&style=flat" alt="gustavobritez" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gustavobritez" alt="gustavobritez" /></a> </p>
 
 - 🌱 Estoy aprendiendo **C#**
 
