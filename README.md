@@ -27,6 +27,7 @@
       <h3>🎓 ApuntesHuv</h3>
       <p>Plataforma web colaborativa diseñada para estudiantes universitarios, permitiendo compartir recursos académicos y material de estudio de forma centralizada.</p>
     </td>
+     <a href="https://apunteshuv.com/index.html#apuntes">🔗 Ver Proyecto</a>
     <td align="center" width="50%">
       <h3>🥗 NutriEvolve</h3>
       <p>Aplicación de escritorio desarrollada en C# y .NET orientada a optimizar la gestión y seguimiento de pacientes para nutricionistas.</p>
