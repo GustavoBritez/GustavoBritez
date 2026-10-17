@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo_girando_180.gif" width="90" alt="Logo Codigo Mecha 3D" />
+  <img src="./assets/logo_girando_180.gif" width="125" alt="Logo Codigo Mecha 3D" />
 </p>
 
 <h1 align="center">👋 ¡Hola, bienvenido a mi mundo! </h1>
