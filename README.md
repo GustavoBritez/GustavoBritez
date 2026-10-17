@@ -26,15 +26,12 @@
     <td align="center" width="50%">
       <h3>🎓 ApuntesHuv</h3>
       <p>Plataforma web colaborativa diseñada para estudiantes universitarios, permitiendo compartir recursos académicos y material de estudio de forma centralizada.</p>
-      <p>
-        <a href="https://github.com/GustavoBritez">🔗 Ver Repositorio</a>
-      </p>
     </td>
     <td align="center" width="50%">
       <h3>🥗 NutriEvolve</h3>
       <p>Aplicación de escritorio desarrollada en C# y .NET orientada a optimizar la gestión y seguimiento de pacientes para nutricionistas.</p>
       <p>
-        <a href="https://github.com/GustavoBritez">🔗 Ver Repositorio</a>
+        <a href="https://github.com/GustavoBritez/Trabajo-Diploma-NutriEvolve">🔗 Ver Repositorio</a>
       </p>
     </td>
   </tr>
@@ -42,7 +39,7 @@
 
 ---
 
-## 🏆 Estadísticas y Logros
+## 🏆 
 <p align="center">
   <!-- Efecto 3D de Trofeos de GitHub -->
   <img src="https://github-profile-trophy.vercel.app/?username=gustavobritez&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="gustavobritez trophies" />
