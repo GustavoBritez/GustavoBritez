@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo_girando_180.gif" width="90" alt="Logo Codigo Mecha 3D" />
+</p>
+
 <h1 align="center">👋 ¡Hola, bienvenido a mi mundo! </h1>
 <h3 align="center"> 🚀 Estudiante de Ingeniería en Sistemas - UAI | Desarrollador de Software </h3>
 
@@ -26,8 +30,8 @@
     <td align="center" width="50%">
       <h3>🎓 ApuntesHuv</h3>
       <p>Plataforma web colaborativa diseñada para estudiantes universitarios, permitiendo compartir recursos académicos y material de estudio de forma centralizada.</p>
+      <p><a href="https://apunteshuv.com/index.html#apuntes">🔗 Ver Proyecto</a></p>
     </td>
-     <a href="https://apunteshuv.com/index.html#apuntes">🔗 Ver Proyecto</a>
     <td align="center" width="50%">
       <h3>🥗 NutriEvolve</h3>
       <p>Aplicación de escritorio desarrollada en C# y .NET orientada a optimizar la gestión y seguimiento de pacientes para nutricionistas.</p>
@@ -40,7 +44,7 @@
 
 ---
 
-## 🏆 
+## 🏆 Logros
 <p align="center">
   <!-- Efecto 3D de Trofeos de GitHub -->
   <img src="https://github-profile-trophy.vercel.app/?username=gustavobritez&theme=tokyonight&no-bg=true&margin-w=15&margin-h=15" alt="gustavobritez trophies" />
@@ -76,6 +80,6 @@
 
 <h3 align="center">🌐 Mis Redes Sociales</h3>
 <p align="center">
-  <a href="https://instagram.com/mechanima7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="45" /></a>
-  <a href="https://www.youtube.com/@Codigo_Mecha" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="45" /></a>
+  <a href="https://instagram.com/mechanima7" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="35" width="45" /></a>
+  <a href="https://www.youtube.com/@Codigo_Mecha" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="35" width="45" /></a>
 </p>
